@@ -1,0 +1,7 @@
+C:\Users\ivano\source\repos\Task2UDPEcho\Task2UDPEcho\bin\Debug\Task2UDPEcho.exe.config
+C:\Users\ivano\source\repos\Task2UDPEcho\Task2UDPEcho\bin\Debug\Task2UDPEcho.exe
+C:\Users\ivano\source\repos\Task2UDPEcho\Task2UDPEcho\bin\Debug\Task2UDPEcho.pdb
+C:\Users\ivano\source\repos\Task2UDPEcho\Task2UDPEcho\obj\Debug\Task2UDPEcho.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Task2UDPEcho\Task2UDPEcho\obj\Debug\Task2UDPEcho.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Task2UDPEcho\Task2UDPEcho\obj\Debug\Task2UDPEcho.exe
+C:\Users\ivano\source\repos\Task2UDPEcho\Task2UDPEcho\obj\Debug\Task2UDPEcho.pdb
